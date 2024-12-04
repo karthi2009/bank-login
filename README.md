@@ -1,1 +1,1 @@
-# bank-login
+This C program is a basic simulation of a banking system. It allows users to register an account, log in, and perform various banking operations such as balance inquiries, cash deposits, withdrawals, online transfers, and password changes.
